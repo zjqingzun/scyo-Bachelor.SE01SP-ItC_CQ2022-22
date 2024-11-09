@@ -1,16 +1,9 @@
 # Bachelor.SE01SP-ItC_CQ2022-22
 
 
-License: 22 : 00 : 00 PM, November 09, 2024.
+Release: 22 : 00 : 00 PM, November 09, 2024.
 
-Purpose: Bachelor - University of National Science, VNU-HCM
-
-Responelor.SE01SP-ItC_CQ2022-22
-
-
-License: 22 : 00 : 00 PM, November 09, 2024.
-
-Purpose: Project 01, Introduction to Cryptography, University of National Science, VNU-HCM
+License: Project 01, Introduction to Cryptography, University of National Science, VNU-HCM
 
 Responsibility: Group 14 
           - Member 1: 22120226 - Le Trong Nghia
